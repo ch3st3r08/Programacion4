@@ -40,13 +40,15 @@ addItemButton.addEventListener("click", () => {
     addItem()
 })
 
-// Agrear elementos cuando se presione enter
+// Agregado por Alexis
+// Agregar elementos cuando se presione enter
 addItemInput.addEventListener("keydown", (e) => {
     if(e.key === "Enter")
         addItem()
 })
 
-// Eliminar ultimo elemento de la lista
+// Agregado por Néstor
+// Eliminar ultimo elemento de la lista (Se refactorizó un poco)
 removeItemButton.addEventListener("click", () => {
     let li = document.querySelector("li:last-child")
     list.removeChild(li);
