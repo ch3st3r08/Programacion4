@@ -7,5 +7,8 @@
 - **Ejercicio 1** : Crear listas usando Bootstrap y el DOM
   - app1.js, ejercicio1.html
 - **Ejercicio 2** : Creando listas con Vuejs y Bootstrap
+  - app2.js, ejercicio2.html
+- **Ejercicio 3** : Mostrando información personales y de peliculas
+  - app3.js, ejercicio3.html
 
 
