@@ -8,6 +8,7 @@ mostrarlo en utilizando v-html
 contenido del array dentro  de una lista <ul> 
 */
 
+//Código trabajado por Alexis
 var app = new Vue({
   el: '#app',
   data: {
